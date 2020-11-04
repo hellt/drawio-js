@@ -1,0 +1,1 @@
+window.onDrawioViewerLoad = function() {mxStencilRegistry.parseStencilSets([]);GraphViewer.processElements(); };var t = document.getElementsByTagName('script');if (t != null && t.length > 0) {var script = document.createElement('script');script.type = 'text/javascript';script.src = 'https://www.draw.io/js/viewer-static.min.js';t[0].parentNode.appendChild(script);}
